@@ -59,7 +59,7 @@
                 "variable1": "`\\`\\`\\` ${e.message ? e.message : e.stack ? String(e.stack).substr(0, 2000) : String(e).substr(0, 2000)}\\`\\`\\``"
             },
             "botinfo": {
-                "loading": "Bekomme Bot Informationen...",
+                "loading": "Bekomme Boot Informationen...",
                 "field1": {
                     "title": "<a:Arrow:1259399777351897108> Generell -- Statistik",
                     "value": "```yml\nServer: {totalGuilds}\nNutzer: {totalNutzern}\nVerbindungen: {connectedchannelsamount}```"

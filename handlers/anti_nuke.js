@@ -1,4 +1,4 @@
-//import the config.json file
+
 const Discord = require("discord.js")
 var {
     MessageEmbed,

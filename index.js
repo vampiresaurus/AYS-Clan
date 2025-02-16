@@ -1,3 +1,4 @@
+//Modified Code, Really Unstable
 const Discord = require("discord.js");
 const colors = require("colors");
 const enmap = require("enmap"); 
