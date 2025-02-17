@@ -1,6 +1,6 @@
 # IMPORTANT Notice!! (Edit)
 
-## As of February 2025, We confirm that this Current Code is Really Unstable for a Long term use, Most of the Commands/Modules Do not work Actively, We're Currently Seeking Help from Developers to Update this entire project to discord.js V14, If you want to Contribute Join Our Discord Server
+## As of February 2025, We confirm that this Current Code is Really Unstable for a Long term use, Most of the Commands/Modules Do not work Actively, We're Currently Seeking Help from Developers to Update this entire project to discord.js V14, If you want to Contribute Create a Pull Request.
 
 ### PHV DEVELOPMENT - We've only updated/modified parts of this code and added few commands, this bot is originally made by [Tomato6966](https://github.com/Tomato6966/Multipurpose-discord-bot). So Credits go to him.
 
